@@ -20,7 +20,6 @@ In this lab, I learn and implement the fundamentals of deep learning, including:
 The repository is organized as follows:
 
 - `notebooks/` → Jupyter notebooks for experiments and practice
-- `scripts/` → Clean Python implementations
 - `data/` → Datasets (not included in repo if large)
 - `templates/` → Reusable starter headers and lab templates
 - `requirements.txt` → Python dependencies
