@@ -30,6 +30,8 @@ The repository is organized as follows:
 - NumPy
 - Pandas
 - Jupyter Notebook
+- Seaborn
+- Scikit-learn
 
 ## 📅 Semester
 
