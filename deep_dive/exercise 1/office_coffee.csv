@@ -1,0 +1,11 @@
+Name,Department,Cups_per_Day,Satisfaction,Remote
+Alice,IT,5,8,False
+Bob,Sales,2,6,True
+Charlie,IT,7,9,False
+Diana,HR,1,5,True
+Eric,Sales,4,7,False
+Fiona,IT,6,8,False
+George,HR,2,4,True
+Hannah,Sales,3,6,True
+Ian,IT,8,10,False
+Julia,HR,1,6,False
