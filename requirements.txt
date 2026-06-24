@@ -6,5 +6,4 @@ scikit-learn
 tensorflow
 tensorflow_datasets
 tensorboard
-
 importlib-resources

@@ -19,19 +19,29 @@ In this lab, I learn and implement the fundamentals of deep learning, including:
 
 The repository is organized as follows:
 
-- `notebooks/` → Jupyter notebooks for experiments and practice
-- `data/` → Datasets (not included if large)
-- `templates/` → Reusable starter templates
-- `requirements.txt` → Python dependencies
+- `notebooks/` → Jupyter notebooks for experiments, exercises, and practice
+- `data/` → Datasets and data files (large datasets may be excluded from version control)
+- `class_materials/` → Lecture notes, slides, and course resources
+- `lab_materials/` → Hands-on lab notes and supporting materials
+- `deep_dive/` → Additional in-depth topics, projects, and advanced content
+- `venv/` → Local Python virtual environment (not typically committed to Git)
+- `.gitignore` → Specifies files and folders ignored by Git
+- `requirements.txt` → Python package dependencies
+- `README.md` → Project overview, setup instructions, and repository documentation
 
 ## 🚀 Technologies Used
 
 - Python
 - NumPy
 - Pandas
-- Jupyter Notebook
+- Matplotlib
 - Seaborn
 - Scikit-learn
+- TensorFlow
+- TensorFlow Datasets
+- TensorBoard
+- importlib-resources
+- Jupyter Notebook
 
 ## 📅 Semester
 
@@ -41,31 +51,6 @@ Summer Semester 2026 (SS26)
 
 Patrick Reichel  
 Supported by Lars Ackerman
-
----
-
-# 🧠 Exercises
-
-## 🧠 Exercise 1: Data Exploration with Python
-
-**Task 1: Knowledge Consolidation**
-
-- Explained the purpose and use cases of:
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - Seaborn
-
-- Also covered:
-  - What a conda environment is and why it is used
-
-**Task 2: Jupyter Notebook**
-Worked with the Titanic dataset and practiced:
-
-- Basic data exploration using Pandas
-- Data cleaning (handling missing values)
-- Filtering and aggregation
-- Data visualization using plots
 
 ---
 
