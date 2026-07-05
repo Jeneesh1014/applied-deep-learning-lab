@@ -28,7 +28,7 @@ The repository is organized as follows:
 - `.gitignore` → Specifies files and folders ignored by Git
 - `requirements.txt` → Python package dependencies
 - `README.md` → Project overview, setup instructions, and repository documentation
-- `notebooks/for_exam/` → Comprehensive exam-oriented notes, revision material, and high-probability practice questions designed to serve as the primary study resource for the course.
+- `for_exam/` → Comprehensive exam-oriented notes, revision material, and high-probability practice questions designed to serve as the primary study resource for the course.
 
 ## 🚀 Technologies Used
 
@@ -59,4 +59,4 @@ Supported by Lars Ackerman
 
 This repository is for learning purposes and contains my personal implementations and practice work from the lab sessions.
 
-> **Personal Recommendation:** I created the `notebooks/for_exam/` folder as my complete exam revision resource. In my opinion, thoroughly understanding everything in this folder provides an excellent chance of achieving a top score (e.g., **90/90**) in the Applied Deep Learning exam, without needing to revisit all lecture slides and notebooks.
+> **Personal Recommendation:** I created the `for_exam/` folder as my complete exam revision resource. In my opinion, thoroughly understanding everything in this folder provides an excellent chance of achieving a top score (e.g., **90/90**) in the Applied Deep Learning exam, without needing to revisit all lecture slides and notebooks.
