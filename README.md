@@ -29,6 +29,7 @@ The repository is organized as follows:
 - `requirements.txt` → Python package dependencies
 - `README.md` → Project overview, setup instructions, and repository documentation
 - `for_exam/` → Comprehensive exam-oriented notes, revision material, and high-probability practice questions designed to serve as the primary study resource for the course.
+- `python_basic/` → Just for understanding
 
 ## 🚀 Technologies Used
 
